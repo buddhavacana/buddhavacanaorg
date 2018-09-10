@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gitbook": "3.2.3",
-    "gitbook-plugin-collapsible-menu": "^1.0.3"
+	"gitbook-plugin-collapsible-menu": "^1.0.3"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
