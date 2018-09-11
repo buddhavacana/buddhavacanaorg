@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Buddhavacana.org](README.md)
 * [Theravada teachings](theravada/theravada.md)
 * [Mahayana teachings](mahayana/mahayana.md)
 * [Vajrayana teachings](vajrayana/vajrayana.md)
