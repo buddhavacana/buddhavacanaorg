@@ -1,16 +1,18 @@
 # Summary
 
 * [Introduction](README.md)
-* [Theravada Scriptures](TheravadaScriptures.md)
-   * [Dhammapada](sutta/Dhammapada.md)
-* [Mahayana Scriptures](MahayanaScriptures.md)
-   * [Lotus Sutra](sutra/LotusSutra.md)
-	  * [Chapter 1](sutra/LotusSutra01.md)
-   * [Diamond Cutter Sutra](sutra/DiamondCutterSutra.md)
-   * [Medicine Buddha Sutra](sutra/MedicineBuddhaSutra.md)	
-* [Theravada Teachings](theravada/theravada.md)
-* [Mahayana Teachings](mahayana/mahayana.md)
-* [Vajrayana Teachings](vajrayana/vajrayana.md)
+* [Theravada teachings](theravada/theravada.md)
+* [Mahayana teachings](mahayana/mahayana.md)
+* [Vajrayana teachings](vajrayana/vajrayana.md)
+* [Theravada Scriptures](sutta/theravada-scriptures.md)
+   * [Nidana Sutta: Causes](sutta/nidana-sutta.md)
+   * [Lonaphala Sutta: The Salt Crystal](sutta/lonaphala-sutta.md)
+* [Mahayana Scriptures](mahayana-scriptures.md)
+   * [Lotus Sutra](sutra/lotus-sutra.md)
+	  * [Chapter 1](sutra/lotus-sutra01.md)
+   * [Diamond Cutter Sutra](sutra/diamond-cutter-sutra.md)
+   * [Medicine Buddha Sutra](sutra/medicine-buddha-sutra.md)	
+
 
 
 

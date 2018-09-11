@@ -1,7 +1,8 @@
 {
-  "name": "buddhavacanaorg",
+  "name": "Buddhavacana",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of Buddhist suttas and sutras",
+  "keywords": ["Pali suttas", "Mahayana sutras", "Buddhist scriptures", "buddhavacana"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
