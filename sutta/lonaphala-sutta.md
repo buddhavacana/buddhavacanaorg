@@ -1,4 +1,4 @@
-## Lonaphala Sutta: The Salt Crystal   
+### Lonaphala Sutta: The Salt Crystal   
 translated by Thanissaro Bhikkhu
 
 Monks, for anyone who says, "In whatever way a person makes kamma, that is how it is experienced," there is no living of the holy life, there is no opportunity for the right ending of stress. But for anyone who says, "When a person makes kamma to be felt in such and such a way, that is how its result is experienced," there is the living of the holy life, there is the opportunity for the right ending of stress.
