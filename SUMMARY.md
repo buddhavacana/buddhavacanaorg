@@ -1,6 +1,6 @@
 # Summary
 
-* [Buddhavacana.org](README.md)
+* [**Buddhavacana.org**](README.md)
 * [Video and Audio recordings](media.md)
 ---
 * [Theravada teachings](theravada/theravada.md)
